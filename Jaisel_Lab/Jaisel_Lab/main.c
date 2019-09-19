@@ -7,10 +7,5 @@
 //
 
 #include <stdio.h>
+ 
 
-int main(int argc, const char * argv[]) {
-    // insert code here...
-    ractangle();
-    pythagorean();
-    return 0;
-}
