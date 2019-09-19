@@ -7,5 +7,13 @@
 //
 
 #include <stdio.h>
- 
+#include "operators.h"
+#include "Pythagoran.h"
+#include "ractangle.h"
+int main(int argc, const char * argv[]) {
+    ractangle ();
+    Pythagoran();
+    operators ();
+    return 0;
+}
 

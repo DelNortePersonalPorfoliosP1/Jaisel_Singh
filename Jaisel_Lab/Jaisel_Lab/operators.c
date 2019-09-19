@@ -6,10 +6,9 @@
 //  Copyright © 2019 labs. All rights reserved.
 //
 
-#include "Operators.h"
+#include "operators.h"
 #include <math.h>
-int Operators(void) {
-    // insert code here...
+int operators(void) {
     int count ;
     int Days, Hours, Remainder, Minutes, Seconds = 0;
     printf("Input a number of seconds\n");

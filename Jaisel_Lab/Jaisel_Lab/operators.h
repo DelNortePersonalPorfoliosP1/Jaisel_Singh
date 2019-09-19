@@ -10,5 +10,5 @@
 #define Operators_h
 
 #include <stdio.h>
-int Operators(void) ;
+int operators(void) ;
 #endif /* Operators_h */

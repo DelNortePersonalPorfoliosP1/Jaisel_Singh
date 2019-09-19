@@ -69,8 +69,8 @@
 				A316EA742331456600396369 /* main.c */,
 				A3BDE7422333D9900034228D /* operators.h */,
 				A3BDE7432333D9900034228D /* operators.c */,
-				A316EA872331466000396369 /* Pythagoran.c */,
 				A316EA862331466000396369 /* Pythagoran.h */,
+				A316EA872331466000396369 /* Pythagoran.c */,
 				A316EA7B233145A600396369 /* ractangle.c */,
 				A316EA7C233145A600396369 /* ractangle.h */,
 			);
