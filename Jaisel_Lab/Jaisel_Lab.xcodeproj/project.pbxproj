@@ -11,6 +11,7 @@
 		A316EA7D233145A600396369 /* ractangle.c in Sources */ = {isa = PBXBuildFile; fileRef = A316EA7B233145A600396369 /* ractangle.c */; };
 		A316EA882331466000396369 /* Pythagoran.c in Sources */ = {isa = PBXBuildFile; fileRef = A316EA872331466000396369 /* Pythagoran.c */; };
 		A3BDE7442333D9900034228D /* operators.c in Sources */ = {isa = PBXBuildFile; fileRef = A3BDE7432333D9900034228D /* operators.c */; };
+		A3BDE74A2333E2560034228D /* Fahrenheit.c in Sources */ = {isa = PBXBuildFile; fileRef = A3BDE7492333E2560034228D /* Fahrenheit.c */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -34,6 +35,8 @@
 		A316EA872331466000396369 /* Pythagoran.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; name = Pythagoran.c; path = "../../../../../Desktop/pseudo code/pseudo code/Pythagoran.c"; sourceTree = "<group>"; };
 		A3BDE7422333D9900034228D /* operators.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = operators.h; sourceTree = "<group>"; };
 		A3BDE7432333D9900034228D /* operators.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = operators.c; sourceTree = "<group>"; };
+		A3BDE7482333E2560034228D /* Fahrenheit.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Fahrenheit.h; sourceTree = "<group>"; };
+		A3BDE7492333E2560034228D /* Fahrenheit.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = Fahrenheit.c; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -67,6 +70,8 @@
 			isa = PBXGroup;
 			children = (
 				A316EA742331456600396369 /* main.c */,
+				A3BDE7482333E2560034228D /* Fahrenheit.h */,
+				A3BDE7492333E2560034228D /* Fahrenheit.c */,
 				A3BDE7422333D9900034228D /* operators.h */,
 				A3BDE7432333D9900034228D /* operators.c */,
 				A316EA862331466000396369 /* Pythagoran.h */,
@@ -137,6 +142,7 @@
 				A316EA882331466000396369 /* Pythagoran.c in Sources */,
 				A316EA7D233145A600396369 /* ractangle.c in Sources */,
 				A3BDE7442333D9900034228D /* operators.c in Sources */,
+				A3BDE74A2333E2560034228D /* Fahrenheit.c in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
