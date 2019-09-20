@@ -36,6 +36,10 @@ int main(void) {
         if (lab == 4){
             Fahrenheit();
         
+        if (lab == 5){
+            datatypes();
+        
     }
-}
-}
+ }
+ }
+ }

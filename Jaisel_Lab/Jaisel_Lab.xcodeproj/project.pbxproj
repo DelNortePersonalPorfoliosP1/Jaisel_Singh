@@ -12,6 +12,7 @@
 		A316EA882331466000396369 /* Pythagoran.c in Sources */ = {isa = PBXBuildFile; fileRef = A316EA872331466000396369 /* Pythagoran.c */; };
 		A3BDE7442333D9900034228D /* operators.c in Sources */ = {isa = PBXBuildFile; fileRef = A3BDE7432333D9900034228D /* operators.c */; };
 		A3BDE74A2333E2560034228D /* Fahrenheit.c in Sources */ = {isa = PBXBuildFile; fileRef = A3BDE7492333E2560034228D /* Fahrenheit.c */; };
+		A3BFF97B23352D07009234B3 /* datatypes.c in Sources */ = {isa = PBXBuildFile; fileRef = A3BFF97A23352D07009234B3 /* datatypes.c */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -37,6 +38,8 @@
 		A3BDE7432333D9900034228D /* operators.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = operators.c; sourceTree = "<group>"; };
 		A3BDE7482333E2560034228D /* Fahrenheit.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Fahrenheit.h; sourceTree = "<group>"; };
 		A3BDE7492333E2560034228D /* Fahrenheit.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = Fahrenheit.c; sourceTree = "<group>"; };
+		A3BFF97923352D07009234B3 /* datatypes.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = datatypes.h; sourceTree = "<group>"; };
+		A3BFF97A23352D07009234B3 /* datatypes.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = datatypes.c; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -73,6 +76,8 @@
 				A3BDE7482333E2560034228D /* Fahrenheit.h */,
 				A3BDE7492333E2560034228D /* Fahrenheit.c */,
 				A3BDE7422333D9900034228D /* operators.h */,
+				A3BFF97923352D07009234B3 /* datatypes.h */,
+				A3BFF97A23352D07009234B3 /* datatypes.c */,
 				A3BDE7432333D9900034228D /* operators.c */,
 				A316EA862331466000396369 /* Pythagoran.h */,
 				A316EA872331466000396369 /* Pythagoran.c */,
@@ -139,6 +144,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				A316EA752331456600396369 /* main.c in Sources */,
+				A3BFF97B23352D07009234B3 /* datatypes.c in Sources */,
 				A316EA882331466000396369 /* Pythagoran.c in Sources */,
 				A316EA7D233145A600396369 /* ractangle.c in Sources */,
 				A3BDE7442333D9900034228D /* operators.c in Sources */,
