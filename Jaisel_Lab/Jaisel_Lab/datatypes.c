@@ -9,7 +9,7 @@
 #include "datatypes.h"
 #include <stdio.h>
 
-int main()
+int datatypes()
 {
     int arr1[100];
     int i, mx, mn, n;
@@ -43,4 +43,5 @@ int main()
     }
     printf("Maximum element is : %d\n", mx);
     printf("Minimum element is : %d\n\n", mn);
-}
+    return 0 ; }
+

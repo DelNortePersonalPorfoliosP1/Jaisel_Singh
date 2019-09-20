@@ -11,6 +11,7 @@
 #include "Pythagoran.h"
 #include "ractangle.h"
 #include "Fahrenheit.h"
+#include "datatypes.h"
 int main(void) {
     
     int lab;
@@ -19,7 +20,6 @@ int main(void) {
     int l = 1;
     
     while (a==1){
-        
         
         printf("choose lab by typing in a number 1-5");
         scanf("%i",&lab);
@@ -35,11 +35,11 @@ int main(void) {
         }
         if (lab == 4){
             Fahrenheit();
-        
+        }
         if (lab == 5){
             datatypes();
         
     }
  }
  }
- }
+

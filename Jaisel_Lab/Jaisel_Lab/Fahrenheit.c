@@ -9,7 +9,7 @@
 #include "Fahrenheit.h"
 #include <stdio.h>
 #include <math.h>
-int main(void) {
+int Fahrenheit(void) {
     // insert code here...
     double Temp1, Temp2, Temp3, Temp4 ;
     printf("Enter the first Fahrenheit temperature\n") ;
