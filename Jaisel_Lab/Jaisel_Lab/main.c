@@ -10,10 +10,32 @@
 #include "operators.h"
 #include "Pythagoran.h"
 #include "ractangle.h"
-int main(int argc, const char * argv[]) {
-    ractangle ();
-    Pythagoran();
-    operators ();
-    return 0;
+#include "Fahrenheit.h"
+int main(void) {
+    
+    int lab;
+    int a = 1;
+    int b;
+    int l = 1;
+    
+    while (a==1){
+        
+        
+        printf("choose lab by typing in a number 1-5");
+        scanf("%i",&lab);
+        
+        if (lab == 1){
+            Pythagoran();
+        }
+        if (lab == 2){
+            ractangle();
+        }
+        if (lab == 3){
+            operators();
+        }
+        if (lab == 4){
+            Fahrenheit();
+        
+    }
 }
-
+}
