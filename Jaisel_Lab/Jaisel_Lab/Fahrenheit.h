@@ -10,5 +10,5 @@
 #define Fahrenheit_h
 
 #include <stdio.h>
- void Fahrenheit() ;
+int Fahrenheit(void) ;
 #endif /* Fahrenheit_h */

@@ -10,5 +10,5 @@
 #define datatypes_h
 
 #include <stdio.h>
-void datatypes ();
+int datatypes (void);
 #endif /* datatypes_h */
