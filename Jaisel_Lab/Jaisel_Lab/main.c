@@ -16,10 +16,8 @@ int main(void) {
     
     int lab;
     int a = 1;
-    int b;
-    int l = 1;
     
-    while (a==1){
+    while (a<6){
         
         printf("choose lab by typing in a number 1-5");
         scanf("%i",&lab);
@@ -38,8 +36,10 @@ int main(void) {
         }
         if (lab == 5){
             datatypes();
-        
-    }
+        }
+        if (lab == 6){
+            return 18;
+        }
  }
  }
 
